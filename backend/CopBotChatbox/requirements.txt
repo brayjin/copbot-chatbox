@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyjwt
+requests
+pandas
+PyPDF2
+python-dotenv
